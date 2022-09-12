@@ -6,7 +6,7 @@ cd "/Users/juansegundozapiola/Documents/UdeSA/4to Año/Economía Aplicada/PS1"
 global main "/Users/juansegundozapiola/Documents/UdeSA/4to Año/Economía Aplicada/PS1"
 global input "$main/input"
 global output "$main/output"
-
+**cambio hecho
 use "$input/data_russia.dta", clear
 
 browse
