@@ -9,9 +9,9 @@ eststo clear
 **===========================================================================**
 *PANEL A
 **===========================================================================**
-hago un cambio genero uno
+hago un cambio genero dos
 ********************************** BAYLEY *************************************
-
+*si yo hago cambios aca que pasa
 * Define number of hypothesis
 scalar hyp = 4
 * Define level of significance
